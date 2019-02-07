@@ -1,0 +1,6 @@
+name: jupyter
+channels:
+  - defaults
+dependencies:
+  - pandas
+
