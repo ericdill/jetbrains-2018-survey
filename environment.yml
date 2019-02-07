@@ -3,4 +3,5 @@ channels:
   - defaults
 dependencies:
   - pandas
+  - nomkl
 
